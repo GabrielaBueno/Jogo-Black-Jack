@@ -1,0 +1,30 @@
+		- - - - - - INSTRUÇÕES DO JOGO - - - - - - 		
+		
+		  >   Black Jack e um jogo de cartas que pode ser jogado ate 8 pessoas,
+		  o jogador vence o jogo ao atingir a soma de 21 pontos das suas cartas. 
+		  Caso o jogador nao tenha consiguido chegar proximo a soma de 21 pontos
+		  o jogador ira pedir cartas ate a sua  soma  chegar mais proximo de 21 pontos.
+
+		 > Se a aposta nao for um numero inteiro o valor da sua aposta sera arrepondado para o numero da primeira casa decimal.
+
+		  	   
+	 	 > Os valores das cartas sao:
+		  	- As = 1
+		  	- 2 ao 10 valem o valor da carta
+		  	- Valetes, damas e reis valem 10 pontos
+			- A combinacao dos tres acima com a carta As completa
+			 a pontuacaoo total, ou seja, o As passa a valer 11 pontos. 
+ 		
+		> Para jogar selecione a opcao 1 no menu principal.
+		
+		> Ao jogar contra a maquina ambos iniciam com 1000 e com cartas do baralho sorteadas aleatoriamentea a soma das cartas indicam quem esta ganhando incialmente.
+
+		> Em seguida os jogadores podem começar a apostar, o valor da aposta 
+		descontado do valor total do jogador, lembrando que a aposta deve ser
+		a primeira jogada a fazer.
+		
+		> Em seguida selecione a opcao 3 para pedir cartas,observe as cartas sorteadas  se o a sua soma for superior ao valor de 21 pontos  atualmente voce venceu a rodada.
+		Caso o seu valor passe de 21 pontos voce estora a rodada.
+
+		>Em seguida selecione a opcao 4 para finalizar a jogada.
+		
